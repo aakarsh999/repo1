@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 18E7-4999
+
+ Directory of C:\Users\pavan\Desktop\Git Project
+
+15-05-2024  09:35    <DIR>          .
+15-05-2024  08:35    <DIR>          ..
+15-05-2024  09:35                 0 dir
+15-05-2024  09:37                 0 test1.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  128,322,662,400 bytes free
